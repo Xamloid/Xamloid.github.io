@@ -1,0 +1,28 @@
+body {
+    font-size: 32px;
+    text-align: justify;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40px;
+    margin-right: 320px;
+    background-image: url("https://avatars.mds.yandex.net/i?id=f570952515aa0e08cf2e732849ae23cf0ee94a23-4570154-images-thumbs&n=13");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img {
+    margin-left: 360px;
+}
+  .style {
+    padding-left: 980px;
+    position: fixed;
+    top: 40px;
+    border: 8px;
+    border-radius: 20%;
+  }
